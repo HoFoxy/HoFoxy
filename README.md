@@ -21,5 +21,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 <br>
 
-Se quiser me contatar para trocar informações e contatos, pode fazer pelo email abaixo:
+Se quiser me contatar para trocar informações e contatos, pode fazer pelo email abaixo:<br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:jjoazinho2000@gmail.com) 
