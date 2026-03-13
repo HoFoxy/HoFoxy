@@ -2,7 +2,8 @@ Olá, bem-vindo ao meu perfil!
 
 Para contextualizar
 
-Tenho 21 anos e sou Brasileiro
+Tenho 21 anos e sou Brasileiro.
+
 Sou um ex-aluno da Fatec e atulamente estou retomando minha educação a partir da ETEC.
 Tenho alguns projetos que desejo desenvolver e compartilhar, principalmente voltado a área de cibersegurança.
 
